@@ -1,0 +1,6 @@
+print "Hello World"
+<<<<<<< HEAD
+print "Hello Master"
+=======
+print "Hello add_register"
+>>>>>>> add_register
